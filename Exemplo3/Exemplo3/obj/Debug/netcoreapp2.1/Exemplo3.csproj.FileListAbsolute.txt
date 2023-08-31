@@ -1,0 +1,10 @@
+C:\Users\aluno.FATECLAB\Documents\Visual Studio 2019\Exemplo3\Exemplo3\obj\Debug\netcoreapp2.1\Exemplo3.csproj.CoreCompileInputs.cache
+C:\Users\aluno.FATECLAB\Documents\Visual Studio 2019\Exemplo3\Exemplo3\obj\Debug\netcoreapp2.1\Exemplo3.AssemblyInfoInputs.cache
+C:\Users\aluno.FATECLAB\Documents\Visual Studio 2019\Exemplo3\Exemplo3\obj\Debug\netcoreapp2.1\Exemplo3.AssemblyInfo.cs
+C:\Users\aluno.FATECLAB\Documents\Visual Studio 2019\Exemplo3\Exemplo3\bin\Debug\netcoreapp2.1\Exemplo3.deps.json
+C:\Users\aluno.FATECLAB\Documents\Visual Studio 2019\Exemplo3\Exemplo3\bin\Debug\netcoreapp2.1\Exemplo3.runtimeconfig.json
+C:\Users\aluno.FATECLAB\Documents\Visual Studio 2019\Exemplo3\Exemplo3\bin\Debug\netcoreapp2.1\Exemplo3.runtimeconfig.dev.json
+C:\Users\aluno.FATECLAB\Documents\Visual Studio 2019\Exemplo3\Exemplo3\bin\Debug\netcoreapp2.1\Exemplo3.dll
+C:\Users\aluno.FATECLAB\Documents\Visual Studio 2019\Exemplo3\Exemplo3\bin\Debug\netcoreapp2.1\Exemplo3.pdb
+C:\Users\aluno.FATECLAB\Documents\Visual Studio 2019\Exemplo3\Exemplo3\obj\Debug\netcoreapp2.1\Exemplo3.dll
+C:\Users\aluno.FATECLAB\Documents\Visual Studio 2019\Exemplo3\Exemplo3\obj\Debug\netcoreapp2.1\Exemplo3.pdb

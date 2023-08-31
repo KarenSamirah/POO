@@ -1,0 +1,11 @@
+C:\Users\aluno.FATECLAB\Documents\Visual Studio 2019\Exemplo1\Exemplo1\bin\Debug\netcoreapp2.1\Exemplo1.deps.json
+C:\Users\aluno.FATECLAB\Documents\Visual Studio 2019\Exemplo1\Exemplo1\bin\Debug\netcoreapp2.1\Exemplo1.runtimeconfig.json
+C:\Users\aluno.FATECLAB\Documents\Visual Studio 2019\Exemplo1\Exemplo1\bin\Debug\netcoreapp2.1\Exemplo1.runtimeconfig.dev.json
+C:\Users\aluno.FATECLAB\Documents\Visual Studio 2019\Exemplo1\Exemplo1\bin\Debug\netcoreapp2.1\Exemplo1.dll
+C:\Users\aluno.FATECLAB\Documents\Visual Studio 2019\Exemplo1\Exemplo1\bin\Debug\netcoreapp2.1\Exemplo1.pdb
+C:\Users\aluno.FATECLAB\Documents\Visual Studio 2019\Exemplo1\Exemplo1\obj\Debug\netcoreapp2.1\Exemplo1.csprojAssemblyReference.cache
+C:\Users\aluno.FATECLAB\Documents\Visual Studio 2019\Exemplo1\Exemplo1\obj\Debug\netcoreapp2.1\Exemplo1.csproj.CoreCompileInputs.cache
+C:\Users\aluno.FATECLAB\Documents\Visual Studio 2019\Exemplo1\Exemplo1\obj\Debug\netcoreapp2.1\Exemplo1.AssemblyInfoInputs.cache
+C:\Users\aluno.FATECLAB\Documents\Visual Studio 2019\Exemplo1\Exemplo1\obj\Debug\netcoreapp2.1\Exemplo1.AssemblyInfo.cs
+C:\Users\aluno.FATECLAB\Documents\Visual Studio 2019\Exemplo1\Exemplo1\obj\Debug\netcoreapp2.1\Exemplo1.dll
+C:\Users\aluno.FATECLAB\Documents\Visual Studio 2019\Exemplo1\Exemplo1\obj\Debug\netcoreapp2.1\Exemplo1.pdb

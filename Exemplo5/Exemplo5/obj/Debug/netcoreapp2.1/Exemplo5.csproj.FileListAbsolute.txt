@@ -1,0 +1,10 @@
+C:\Users\aluno.FATECLAB\Documents\Visual Studio 2019\Exemplo5\Exemplo5\bin\Debug\netcoreapp2.1\Exemplo5.deps.json
+C:\Users\aluno.FATECLAB\Documents\Visual Studio 2019\Exemplo5\Exemplo5\bin\Debug\netcoreapp2.1\Exemplo5.runtimeconfig.json
+C:\Users\aluno.FATECLAB\Documents\Visual Studio 2019\Exemplo5\Exemplo5\bin\Debug\netcoreapp2.1\Exemplo5.runtimeconfig.dev.json
+C:\Users\aluno.FATECLAB\Documents\Visual Studio 2019\Exemplo5\Exemplo5\bin\Debug\netcoreapp2.1\Exemplo5.dll
+C:\Users\aluno.FATECLAB\Documents\Visual Studio 2019\Exemplo5\Exemplo5\bin\Debug\netcoreapp2.1\Exemplo5.pdb
+C:\Users\aluno.FATECLAB\Documents\Visual Studio 2019\Exemplo5\Exemplo5\obj\Debug\netcoreapp2.1\Exemplo5.csproj.CoreCompileInputs.cache
+C:\Users\aluno.FATECLAB\Documents\Visual Studio 2019\Exemplo5\Exemplo5\obj\Debug\netcoreapp2.1\Exemplo5.AssemblyInfoInputs.cache
+C:\Users\aluno.FATECLAB\Documents\Visual Studio 2019\Exemplo5\Exemplo5\obj\Debug\netcoreapp2.1\Exemplo5.AssemblyInfo.cs
+C:\Users\aluno.FATECLAB\Documents\Visual Studio 2019\Exemplo5\Exemplo5\obj\Debug\netcoreapp2.1\Exemplo5.dll
+C:\Users\aluno.FATECLAB\Documents\Visual Studio 2019\Exemplo5\Exemplo5\obj\Debug\netcoreapp2.1\Exemplo5.pdb
